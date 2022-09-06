@@ -1,0 +1,1 @@
+x=msgbox("currant acountvorofication code break down" ,0, "Stupidity is #trending")

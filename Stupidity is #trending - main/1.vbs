@@ -1,0 +1,1 @@
+x=msgbox("Why polar bears lie about global warming" ,0, "Stupidity is #trending")

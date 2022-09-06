@@ -1,0 +1,1 @@
+x=msgbox("Singels in elmore no waiting" ,0, "Stupidity is #trending")

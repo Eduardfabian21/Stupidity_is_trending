@@ -1,0 +1,1 @@
+x=msgbox("Click her to stop your crush from unfriending" ,0, "Stupidity is #trending")

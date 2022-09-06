@@ -1,0 +1,1 @@
+x=msgbox("Feel the doom impending" ,0, "Stupidity is #trending")

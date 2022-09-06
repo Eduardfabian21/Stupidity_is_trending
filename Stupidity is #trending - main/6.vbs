@@ -1,0 +1,1 @@
+x=msgbox("Doctorate with no graduating" ,0, "Stupidity is #trending")
