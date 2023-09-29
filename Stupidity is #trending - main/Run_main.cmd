@@ -30,3 +30,4 @@ start 9.vbs
 timeout /t 2 /nobreak > nul
 taskkill /f /IM wscript.exe
 start 10.cmd
+pause
